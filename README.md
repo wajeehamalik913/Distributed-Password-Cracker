@@ -1,6 +1,7 @@
 "# Password-Cracker" 
 
-=> g++ pass_crack.cpp
+=> g++ pass_cracker.cpp
+
 => ./a.out
 
 **Project Overview**
